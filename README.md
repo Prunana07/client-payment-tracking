@@ -1,4 +1,14 @@
 # Client Payment Tracking System (Excel)
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](dashboard.png)
+
+### Client Payments Sheet
+![Client Payments Sheet](client-payments-sheet.png)
+
+### Monthly Income Chart
+![Monthly Income Chart](monthly-income-chart.png)
 
 ## Overview
 This project is an Excel-based client payment tracking system designed for personal trainers managing both online and in-person clients. It supports subscription-based payments, session packages, and pay-as-you-go transactions, with an automated dashboard for income analysis.
